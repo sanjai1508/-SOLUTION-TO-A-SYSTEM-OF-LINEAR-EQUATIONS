@@ -16,8 +16,8 @@ End the program
 ## Program:
 
     #Program to find the solution for the given linear equations.
-    #Developed by:  KABELAN G K
-    #RegisterNumber: 24900985
+    #Developed by:  Sanjai.M
+    #RegisterNumber: 24901269
     import numpy as np
     A=np.array([
         [5,-3,-10],
@@ -29,7 +29,8 @@ End the program
     print(soln)
 
 ## Output:
-![LMS code runner](<Screenshot 2024-10-30 112732.png>)
+<img width="1450" height="897" alt="image" src="https://github.com/user-attachments/assets/7d1d888a-87f6-4548-87d4-d6cdc8246dad" />
+
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
 
